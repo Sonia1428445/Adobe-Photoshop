@@ -1,26 +1,7 @@
 # Adobe-Photoshop
-# Adobe Photoshop Project: [Project Name]
+# Adobe Photoshop designs
 
-Welcome to the README for my Adobe Photoshop project! This project showcases my skills and creativity in using Adobe Photoshop to create [describe the type of project, e.g., digital art, photo manipulation, graphic design].
-
-## Table of Contents
-Artboard 1.jpg
-Artboard 2.jpg
-Artboard 3.jpg
-Artboard 4.jpg
-Artboard 5.jpg
-Artboard 6.jpg
-Artboard 7.jpg
-Artboard 8.jpg
-README.md
-after-before.psd
-animie.psd
-birthday post.jpg
-burger king.jpg
-class 2.psd
-design.jpg(./designjpg)
-doraemon.psd(./doraemonpsd)
-
+Welcome to the README for my Adobe Photoshop project! This project showcases my skills and creativity in using Adobe Photoshop
 
 ## Project Overview
 
